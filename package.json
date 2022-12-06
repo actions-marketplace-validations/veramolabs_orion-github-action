@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@veramo/core": "^1.0.1",
-    "@veramo/remote-client": "^1.0.1"
+    "@veramo/remote-client": "^4.2.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",
